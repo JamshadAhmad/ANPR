@@ -27,6 +27,7 @@ There are seven primary algorithms that the software requires for identifying a 
 
 **Tips to improve:**
 1) A camera that makes use of active infrared imaging (with a normal colour filter over the lens and an infrared illuminator next to it) benefits greatly.
+
 ![Infrared Camera](http://s4.postimg.org/l8lz6eizh/infrared_cameras.jpg)
 
 2) A [**Median Filter**](http://en.wikipedia.org/wiki/Median_filter) may also be used to reduce the visual noise on the image.
@@ -39,13 +40,13 @@ Before / After (median filter)
 
 
 **Dificulties:**
-1. Poor file resolution
-2. Blurry images, particularly motion blur.
-3. Poor lighting and low contrast due to overexposure, reflection or shadows.
-4. An object obscuring (part of) the plate, quite often a tow bar, or dirt infront of the camera.
-5. A different font, popular for vanity plates (some countries do not allow such plates, eliminating the problem).
-6. Circumvention techniques (Round or mixed characters fonts,using a plate cover or a spray).
-7. Lack of coordination between countries or states. Two cars from different countries or states can have the same number but different design of the plate.
+- Poor file resolution.
+- Blurry images, particularly motion blur.
+- Poor lighting and low contrast due to overexposure, reflection or shadows.
+- An object obscuring (part of) the plate, quite often a tow bar, or dirt infront of the camera.
+- A different font, popular for vanity plates (some countries do not allow such plates, eliminating the problem).
+- Circumvention techniques (Round or mixed characters fonts,using a plate cover or a spray).
+- Lack of coordination between countries or states. Two cars from different countries or states can have the same number but different design of the plate.
 
 
 **Still having perfect situation, there could be misreading due to** 
