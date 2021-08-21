@@ -28,7 +28,7 @@ There are seven primary algorithms that the software requires for identifying a 
 **Tips to improve:**
 1) A camera that makes use of active infrared imaging (with a normal colour filter over the lens and an infrared illuminator next to it) benefits greatly.
 
-![Infrared Camera](http://s4.postimg.org/l8lz6eizh/infrared_cameras.jpg)
+![Infrared Camera](https://media.wired.com/photos/5932499926780e6c04d2ab6a/191:100/w_1280,c_limit/i_photo6.jpg)
 
 2) A [**Median Filter**](http://en.wikipedia.org/wiki/Median_filter) may also be used to reduce the visual noise on the image.
 
@@ -72,7 +72,7 @@ Click here for [__Reference__](http://en.wikipedia.org/wiki/Automatic_number_pla
 Report by
 ---------
 
-> jamshad.ahmad@coeus-solutions.de
+> jamshadahmad.se@gmail.com
 
 
 ----------
